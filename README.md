@@ -7,3 +7,5 @@ Fateh Results Advisory: **approved** FRA motion ads, hosted on GitHub Pages so M
 - Public URL pattern: https://fatehwork05.github.io/fra-motion/ads/FRA-MOT-NNN_15s.mp4
 
 - `girthwell/` holds approved Girthwell motion Reels (Fateh OK 2026-10-20, D-116). Public URL pattern: https://fatehwork05.github.io/fra-motion/girthwell/GW-MOT-NNN_full.mp4
+
+- `posts/` holds approved FRA image posts (carousels and singles) for Metricool (Fateh OK 2026-10-21: repo hosts both posts and Reels). Public URL pattern: https://fatehwork05.github.io/fra-motion/posts/<campaign>/<file>.png
